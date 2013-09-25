@@ -1,0 +1,61 @@
+http://unmuhjember.ac.id/
+
+GET / HTTP/1.1
+Ket : Untuk menerima data dari server unmuhjember.ac.id
+--------------------------------------------------------------------
+Host: unmuhjember.ac.id
+Ket : Sebuah komputer yang terhubung ke server unmuhjember.ac.id
+--------------------------------------------------------------------
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:16.0) Gecko/20100101 Firefox/16.0
+Ket : klien menggunakan browser mozilla fersi 16.0
+------------------------------------------------------------------------------
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Ket : server bisa menerima text aplication xhtml+xml
+------------------------------------------------------------------------------
+Accept-Language: id,en-us;q=0.7,en;q=0.3
+Ket : Server bisa menerima bahasa indonesia dan inggris
+------------------------------------------------------------------------------
+Accept-Encoding: gzip, deflate
+Ket : Menerima pengcodean gzip dan deflate
+------------------------------------------------------------------------------
+Connection: keep-alive
+Ket : Koneksi bisa di akses
+------------------------------------------------------------------------------
+Cookie: business7_tpl=business7; __zlcmid=K1d1MOrWBbYvST; ecf6860c8de5011a8e9d97d40b3b98dd=m4muvns00gq7iibgpdhc4j92a7
+Ket : Serangkaian teks yang disimpan pada komputer kita oleh situs web yang kita kunjungi
+------------------------------------------------------------------------------------------------------------------------
+Cache-Control: max-age=0
+Ket : Sebagai pengawas
+---------------------------------------------------------------------------------------------------
+
+HTTP/1.1 200 OK
+Server: nginx/1.0.5
+Ket : Server telah menyetuji web unmuhjember.ac.id
+--------------------------------------------------------------
+Date: Wed, 25 Sep 2013 11:45:04 GMT
+Ket : Tanggal memproses unmuhjember.ac.id hari rabu 25 september 2013
+-----------------------------------------------------------------------
+Content-Type: text/html; charset=utf-8
+Ket : Tipe konten text/html dan karakter
+-----------------------------------------------------------------------
+Connection: keep-alive
+Ket : Koneksi yang bisa di akses
+-----------------------------------------------------------------------
+X-Powered-By: PHP/5.3.5-1ubuntu7.11
+Ket : Server menggunakan OS ubuntu 7.11 dan bahasa pemrograman php/5.3.5-1
+---------------------------------------------------------------------------
+P3P: CP="NOI ADM DEV PSAi COM NAV OUR OTRo STP IND DEM"
+Ket : -
+---------------------------------------------------------------------------
+Cache-Control: no-cache
+Ket : Sebagai pengawasan
+---------------------------------------------------------------------------
+Pragma: no-cache
+Ket : Tag dapat tidak mencegah halaman yang di-cache
+---------------------------------------------------------------------------
+Vary: Accept-Encoding
+Ket : Menerima perbedaan pengkodean
+---------------------------------------------------------------------------
+Content-Encoding: gzip
+Ket : Kadar pengkodeannya gzip
+Content-Length: 7802
